@@ -25,4 +25,4 @@ This is an interactive Streamlit app that fetches real-time weather data and pre
 
 ---
 
-streamlit run yourscript.py
+streamlit run app.py
